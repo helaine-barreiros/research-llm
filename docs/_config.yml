@@ -1,0 +1,3 @@
+echo "theme: jekyll-theme-cayman
+title: LLMs em Engenharia de Software
+description: Pesquisa sobre aplicação de Large Language Models em práticas de Engenharia de Software" > docs/_config.yml
