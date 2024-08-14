@@ -131,4 +131,8 @@ Seguindo estas diretrizes, manteremos nosso projeto organizado, facilitaremos a 
 
 ---
 
+<<<<<<< HEAD
+Última atualização: [14/08/24]
+=======
 Última atualização: [14/08/2024]
+>>>>>>> 11c0cd03867e9c00c80fa49c850aa99479245dae
